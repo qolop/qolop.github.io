@@ -1,0 +1,49 @@
+body {
+    background-color: #ddd;
+    font-family: 'PT Sans', sans-serif;
+    /* font-size: 80%; */
+    padding-left: 30px;
+    margin-left: 30px;
+}
+
+.welcome,
+.lyrics {
+  padding: 10px;
+  border-style: groove;
+  border-radius: 2px;
+  border-color: orange;
+}
+
+.welcome {
+  text-align: center;
+}
+
+p {
+    font-weight: lighter;
+}
+
+.blue_text_shadow {
+  text-shadow: blue 0 -2px;
+}
+
+#ohhellothere {
+  min-height: 100vh;
+}
+
+#lyrics {
+  background-color: grey;
+}
+
+dt {
+  font-size: 130%;
+}
+
+nav {
+  border-style: solid;
+  border-radius: 2px;
+  border-color: #aaa;
+}
+
+a {
+  color: #a46c20;
+}
